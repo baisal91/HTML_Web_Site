@@ -1,0 +1,27 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: dotted none none; /* specifyng all the borders: top, left, right*/
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+}
+
+img {
+    height: 50%;
+    
+}
+
+h1 {
+    color: #66BFBF;
+    
+
+}
+
+h3 {
+    color: #66BFBF;
+
+}
